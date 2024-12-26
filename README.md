@@ -71,6 +71,9 @@ To run this program, follow these steps:
 
 ## Screenshots
 
-![Car Rental Management System Screenshot 1](screenshots/screenshot1.png)
-![Car Rental Management System Screenshot 2](screenshots/screenshot2.png)
-![Car Rental Management System Screenshot 3](screenshots/screenshot3.png)
+![image](https://github.com/user-attachments/assets/24c5ecbb-5aad-4bda-8ee2-38843351d144)
+![image](https://github.com/user-attachments/assets/3e170aa6-a04f-4776-81ec-b3ec61140331)
+![image](https://github.com/user-attachments/assets/c9225cc4-3930-4550-b277-86c3e03115e7)
+
+
+
